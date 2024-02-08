@@ -1,0 +1,151 @@
+
+.nav-item:hover{
+    background-color: #ff0000;
+    color: rgb(255, 60, 0);
+    /* //border: solid rgb(217, 255, 0) 5px; */
+}
+body {
+    background: #1d0e15;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.home {
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.home__subtitle,
+.login__logo,
+.register__logo,
+.profile__logo {
+    font-size: 2rem;
+    color: #ff5421;
+}
+
+.home__title {
+    font-size: 4rem;
+    color: #fff;
+}
+
+.about,
+.services,
+.contact,
+.login,
+.register,
+.profile {
+    background: #1d0e15;
+}
+
+.about__description,
+.guide__description {
+    font-size: 1.3rem;
+    color: #fff;
+}
+
+.title,
+.about__icon,
+.plans__icon {
+    color: #ff5421;
+}
+
+.fs-2,
+.fs-3,
+.fs-5 {
+    color: #ff5421;
+    font-weight: 600;
+}
+
+.contact__icon {
+    font-size: 1.5rem;
+}
+
+.contact__form,
+.register__form,
+.profile__form {
+    background: #fff;
+}
+
+.login__bg {
+    background-image: url(../images/login.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 95%;
+}
+
+.login__logo:hover,
+.login__forget:hover,
+.login__register:hover,
+.register__logo:hover,
+.profile__logo:hover {
+    color: #ff5421 !important;
+}
+
+.login__forget,
+.login__register {
+    color: #ff5421;
+    cursor: pointer;
+}
+
+.newsletter__input,
+.imc__input {
+    width: 50%;
+}
+.card-img-top3{
+    height: 230px;
+}
+.card-img-top {
+    transition: all 0.2s ease-in-out;
+}
+
+.card-img-top:hover {
+    transform: scale(1.1);
+}
+
+.products__bg,
+.dashboard__table {
+    background: #f17f5c;
+}
+
+.products__card-image {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.user {
+    text-transform: uppercase;
+}
+
+.dashboard__video {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+
+.dashboard__video iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.profile__table {
+    width: 40%;
+}
+
+.dashboard__exercises {
+    color: #ff5421;
+    font-weight: 500;
+    text-transform: uppercase;
+}

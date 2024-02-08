@@ -1,0 +1,55 @@
+.navbar {
+    background: #1d0e15;
+}
+.nav-item:hover{
+    text-align: center;
+}
+.nav-item{
+    padding-left: 1rem;
+}
+.navbar-logo {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #ff5421 !important;
+}
+
+.nav-link,
+.footer-link {
+    text-decoration: none;
+    font-size: 0.95rem;
+    color: #fff !important;
+}
+
+.btn-primary {
+    background: #ff5421;
+    border: none;
+}
+
+.btn-primary:hover {
+    background: #f17f5c;
+    color: #fff;
+}
+
+.footer {
+    background: #ff5421;
+}
+
+.footer-link {
+    cursor: pointer;
+}
+
+.footer__icons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.footer__icon {
+    color: #fff;
+    cursor: pointer;
+    font-size: 2.3rem;
+}
+
+.footer__icon:hover {
+    color: #fff;
+}

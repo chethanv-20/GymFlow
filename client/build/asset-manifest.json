@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d28cc6db.css",
+    "main.js": "/static/js/main.c0ffab9d.js",
+    "static/media/guiausuario.pdf": "/static/media/guiausuario.50c12aaa1ee236f125bd.pdf",
+    "static/media/login.png": "/static/media/login.d093199766ca8424d20c.png",
+    "static/media/step5.png": "/static/media/step5.73fdda2544cf366f49bf.png",
+    "static/media/step8.png": "/static/media/step8.36c3b05f71db4376cb4b.png",
+    "static/media/about.png": "/static/media/about.4e1e5ebe9cbd5edb4db0.png",
+    "static/media/proteina.png": "/static/media/proteina.215515daad2af0eefc95.png",
+    "static/media/home.png": "/static/media/home.c3c851ace8988d359bea.png",
+    "static/media/bascula.png": "/static/media/bascula.f84c464e0a0436dbac73.png",
+    "static/media/rueda.png": "/static/media/rueda.16b2f6ce1d8fe8cd5b58.png",
+    "static/media/mancuernas.png": "/static/media/mancuernas.6ca703a2a98c03079474.png",
+    "static/media/step1.png": "/static/media/step1.243aee58308426e85bce.png",
+    "static/media/step7.png": "/static/media/step7.a1039c6ff8cd722c6230.png",
+    "static/media/botella.png": "/static/media/botella.1ff6d92aedf6b32d8212.png",
+    "static/media/step6.png": "/static/media/step6.f18eee7498c204723041.png",
+    "static/media/step3.png": "/static/media/step3.f6c91f4e9409d25f1f77.png",
+    "static/media/services-3.jpg": "/static/media/services-3.0879b7ef441083fc126d.jpg",
+    "static/media/check.png": "/static/media/check.088953a81722f83c7279.png",
+    "static/media/step4.png": "/static/media/step4.ac41f5ad930c7696089c.png",
+    "static/media/gold_membership.jpg": "/static/media/gold_membership.d02b0a72535cd1f6f0c2.jpg",
+    "static/media/services-1.jpg": "/static/media/services-1.19a1c223fed6fd3d68bf.jpg",
+    "static/media/step2.png": "/static/media/step2.bbb781266a65d18f09f9.png",
+    "static/media/bolso.png": "/static/media/bolso.4c82e3117b9609ad21c7.png",
+    "index.html": "/index.html",
+    "main.d28cc6db.css.map": "/static/css/main.d28cc6db.css.map",
+    "main.c0ffab9d.js.map": "/static/js/main.c0ffab9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d28cc6db.css",
+    "static/js/main.c0ffab9d.js"
+  ]
+}
