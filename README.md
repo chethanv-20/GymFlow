@@ -29,5 +29,5 @@ Requirements
      npm start
      ```
 
-### any quaries [mail ](chethanchetu202004@gmail.com)
+### any quaries contact @chethanchetu202004@gmail.com
 
