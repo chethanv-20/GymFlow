@@ -3,7 +3,7 @@
 Requirements 
 1. Node should be installed
 2. VS code should be installed 
-3. You know be knowing basics of routing in middleware
+3. You know be knowing basics of routing in middleware( node and express routing)
 
 ## steps to run the application 
 
@@ -14,14 +14,14 @@ Requirements
   ```
 + open two terminals with the project file path 
 
-  1. first terminal
+  1. First terminal
      ```
      cd client
      ```
      ```
      npm start
      ```
-  2. second terminal
+  2. Second terminal
      ```
      cd config
      ```
@@ -29,5 +29,5 @@ Requirements
      npm start
      ```
 
-any quaries mail me @chethanchetu202004@gmail 
+### any quaries [mail ](chethanchetu202004@gmail.com)
 
